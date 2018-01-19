@@ -31,3 +31,9 @@ list_output_lines = list()
 
 
 # From the list of lines, build a file and write it to disk at the location 'path_output'
+
+
+
+
+
+
