@@ -49,3 +49,7 @@ Install the Anaconda package. I recommend 3.6.
 
 Once the installation is complete, you can launch Spyder and start scripting! This tutorial can help.
 - https://www.youtube.com/watch?v=J5GevIHNctM
+
+## Other languages
+
+Feel free to complete the exercise in **C#** or **Java** if you prefer.
